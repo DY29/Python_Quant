@@ -1,4 +1,4 @@
-# python_quant
+# Python_Quant
 AI기반 주식 트레이딩 시스템을 개발합니다
 
 사용 언어: Python
