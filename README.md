@@ -4,3 +4,6 @@
 사용 언어: Python
 
 API: 대신증권 Cybos Plus API
+
+교재: 파이썬으로 배우는 알고리즘 트레이딩
+https://wikidocs.net/book/110
